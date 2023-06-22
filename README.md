@@ -1,9 +1,9 @@
 # Smart-Parking-System-
 
-INTRODUCTION:
+𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
              I have fabricated a prototype titled "SMART PARKING SYSTEM".
 
-ABSTRACT:
+𝐀𝐁𝐒𝐓𝐑𝐀𝐂𝐓:
 
 In today’s parking system, we have hydraulic lifts and a system that detects the amount 
 for the number of hours, we parked the car But there is no FASTAG kind of system in 
@@ -26,7 +26,7 @@ our project.
 In the future, we will implement IoT technology to wirelessly communicate with Arduino 
 Board and Image processing for better detection of cars
 
-CONCLUSION:
+𝐂𝐎𝐍𝐂𝐋𝐔𝐒𝐈𝐎𝐍:
 
 This is not a fully automated Smart Parking System.This project is a starting phase of Automation Parking.
 
