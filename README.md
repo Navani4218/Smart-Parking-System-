@@ -1,7 +1,7 @@
 # Smart-Parking-System-
 
 INTRODUCTION:
-I have fabricated a prototype titled "SMART PARKING SYSTEM".
+             I have fabricated a prototype titled "SMART PARKING SYSTEM".
 
 ABSTRACT:
 
