@@ -25,3 +25,18 @@ our project.
 
 In the future, we will implement IoT technology to wirelessly communicate with Arduino 
 Board and Image processing for better detection of cars
+
+CONCLUSION:
+
+This is not a fully automated Smart Parking System.This project is a starting phase of Automation Parking.
+
+Thereby from this project, the implementation of automation parking was 
+kickstarted. 
+
+There can be improvements apart from our project such as IoT implementation 
+and Image Processing Technique which adds more facilities to this project in various 
+circumstances. 
+
+Therefore our project will help people to find out whether the parking slot is 
+available or not. In future developments, the implementation of IoT and Image Processing 
+Techniques that serves as an addon feature and feasibility to this parking system
