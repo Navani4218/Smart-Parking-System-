@@ -3,6 +3,7 @@ INTRODUCTION:
 I have fabricated a prototype titled "SMART PARKING SYSTEM".
 
 ABSTRACT:
+
 In today’s parking system, we have hydraulic lifts and a system that detects the amount 
 for the number of hours, we parked the car But there is no FASTAG kind of system in 
 parking places.
